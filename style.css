@@ -1,0 +1,65 @@
+.content {
+    text-align: center;
+
+}
+
+div{
+    background-color: black;
+    
+}
+h1{
+    font-size: 30px;
+    color: white;
+}
+
+h4{
+    background-color: black;
+    color: white;
+}
+section{
+    background-color: white;
+    color: black;
+}
+video{
+    background-color: black;
+    
+}
+    
+
+
+
+.bio {
+    text-align: center;
+    background-color: black;
+    text-decoration: solid;
+    color: white;
+}
+
+.info {
+    text-align: start;
+
+}
+
+p {
+    line-height: 1.5ch;
+    text-align: initial;
+    padding-left: 25%;
+    background-color: black;
+    color: white;
+
+}
+
+hr{
+    background-color: black;
+}
+u{
+    color:skyblue;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+
+    
+
+   
